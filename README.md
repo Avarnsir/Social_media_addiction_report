@@ -4,7 +4,7 @@
 **Key Insights:**
 - Analyzed 705 students across 13 variables
 - Females 25% more addicted than males
-- [Platform] most addictive (score 7.2/10)
+- [Platform] most addictive score
 - Undergrads lose 1.8 sleep hours/night
 
 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
